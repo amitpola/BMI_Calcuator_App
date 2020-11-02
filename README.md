@@ -1,6 +1,8 @@
-# bmi
+# BMI_Calculating_App
 
-A new Flutter application.
+This application takes the height, weight and age as input
+and displays the body mass index and provides the advice to maintain a 
+perfect diet.
 
 ## Getting Started
 
